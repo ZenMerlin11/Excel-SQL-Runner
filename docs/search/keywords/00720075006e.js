@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("run",["Function"],[["RunQueries",,[[,,,,0,"File:MSQLRunner.bas:RunQueries"]]],["RunQuery",,[[,,,,0,"File:MSQLRunner.bas:RunQuery"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("com",["Information"],[["Compatibility",,[[,,,,0,"File:MAdmin.bas:Compatibility"]]]]);

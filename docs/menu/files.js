@@ -1,0 +1,1 @@
+NDMenu.OnSectionLoaded("files.js",[[1,"MAdmin.bas"],[1,"MGlobalConstants.bas"],[1,"MSQLRunner.bas"],[1,"MWorkSheetFunctions.bas"]]);

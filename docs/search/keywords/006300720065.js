@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cre",["Function"],[["CreateConnectionString",,[[,,,,0,"File:MSQLRunner.bas:CreateConnectionString"]]]]);

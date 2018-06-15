@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("mgl",["File"],[["MGlobalConstants",,[[,"MGlobalConstants.bas",,,0,"File:MGlobalConstants.bas:MGlobalConstants.bas"]]]]);

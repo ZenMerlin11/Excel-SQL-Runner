@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("mad",["File"],[["MAdmin",,[[,"MAdmin.bas",,,0,"File:MAdmin.bas:MAdmin.bas"]]]]);

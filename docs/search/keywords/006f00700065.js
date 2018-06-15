@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ope",["Function"],[["OpenDatabase",,[[,,,,0,"File:MSQLRunner.bas:OpenDatabase"]]]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("fou",["Function"],[["FoundInCollection",,[[,,,,0,"File:MWorkSheetFunctions.bas:FoundInCollection"]]]]);

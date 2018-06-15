@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("pro",["Function"],[["ProcessQuery",,[[,,,,0,"File:MSQLRunner.bas:ProcessQuery"]]]]);

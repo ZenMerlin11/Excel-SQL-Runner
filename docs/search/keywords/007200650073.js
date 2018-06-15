@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("res",["Function"],[["Reset",,[[,,,,0,"File:MAdmin.bas:Reset"]]]]);

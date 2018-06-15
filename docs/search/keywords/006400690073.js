@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("dis",["Function"],[["DisableDevMode",,[[,,,,0,"File:MAdmin.bas:DisableDevMode"]]]]);
